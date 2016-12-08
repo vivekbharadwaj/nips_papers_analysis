@@ -1,0 +1,6 @@
+UTILS/__pycache__/
+DATA/
+NOTEBOOKS/.ipynb_checkpoints/
+.env
+*.pyc
+INSTALLERS/
