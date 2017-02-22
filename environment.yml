@@ -56,11 +56,15 @@ dependencies:
 - zlib=1.2.8=vc14_3
 - pip:
   - click==6.6
+  - et-xmlfile==1.0.1
   - ipython-genutils==0.1.0
+  - jdcal==1.3
   - jupyter-client==4.4.0
   - jupyter-core==4.2.1
+  - openpyxl==2.4.1
   - prompt-toolkit==1.0.9
   - python-dotenv==0.6.1
   - win-unicode-console==0.5
+  - xlrd==1.0.0
 prefix: C:\Users\M042266\.conda\envs\nips_papers_analysis
 
