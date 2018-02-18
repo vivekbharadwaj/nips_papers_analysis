@@ -4,3 +4,5 @@ NOTEBOOKS/.ipynb_checkpoints/
 .env
 *.pyc
 INSTALLERS/
+NOTEBOOKS/working
+NOTEBOOKS/output
