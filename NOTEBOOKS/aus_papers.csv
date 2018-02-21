@@ -1,0 +1,165 @@
+year,title,pdf_name
+2017,A Bayesian Data Augmentation Approach for Learning Deep Models,6872-a-bayesian-data-augmentation-approach-for-learning-deep-models.pdf
+2017,Deep Subspace Clustering Networks,6608-deep-subspace-clustering-networks.pdf
+2017,Dual Discriminator Generative Adversarial Nets,6860-dual-discriminator-generative-adversarial-nets.pdf
+2017,Efficient Optimization for Linear Dynamical Systems with Applications to Clustering and Sparse Coding,6936-efficient-optimization-for-linear-dynamical-systems-with-applications-to-clustering-and-sparse-coding.pdf
+2017,Linearly constrained Gaussian processes,6721-linearly-constrained-gaussian-processes.pdf
+2017,Process-constrained batch Bayesian optimisation,6933-process-constrained-batch-bayesian-optimisation.pdf
+2017,Regularized Modal Regression with Applications in Cognitive Impairment Prediction,6743-regularized-modal-regression-with-applications-in-cognitive-impairment-prediction.pdf
+2017,f-GANs in an Information Geometric Nutshell,6649-f-gans-in-an-information-geometric-nutshell.pdf
+2016,A Simple Practical Accelerated Method for Finite Sums,6154-a-simple-practical-accelerated-method-for-finite-sums.pdf
+2016,A scaled Bregman theorem with applications,6176-a-scaled-bregman-theorem-with-applications.pdf
+2016,Causal Bandits: Learning Good Interventions via Causal Inference,6195-causal-bandits-learning-good-interventions-via-causal-inference.pdf
+2016,Dual Space Gradient Descent for Online Learning,6560-dual-space-gradient-descent-for-online-learning.pdf
+2016,Error Analysis of Generalized Nystr?m Kernel Regression,6602-error-analysis-of-generalized-nystrom-kernel-regression.pdf
+2016,Homotopy Smoothing for Non-Smooth Problems with Lower Complexity than ,6407-homotopy-smoothing-for-non-smooth-problems-with-lower-complexity-than-o1epsilon.pdf
+2016,Image Restoration Using Very Deep Convolutional Encoder-Decoder Networks with Symmetric Skip Connections,6172-image-restoration-using-very-deep-convolutional-encoder-decoder-networks-with-symmetric-skip-connections.pdf
+2016,Infinite Hidden Semi-Markov Modulated Interaction Point Process,6243-infinite-hidden-semi-markov-modulated-interaction-point-process.pdf
+2016,Learning the Number of Neurons in Deep Networks,6372-learning-the-number-of-neurons-in-deep-networks.pdf
+2016,On Regularizing Rademacher Observation Losses,6572-on-regularizing-rademacher-observation-losses.pdf
+2016,Spatio-Temporal Hilbert Maps for Continuous Occupancy Representation in Dynamic Environments,6541-spatio-temporal-hilbert-maps-for-continuous-occupancy-representation-in-dynamic-environments.pdf
+2015,Convergence Analysis of Prediction Markets via Randomized Subspace Descent,5727-convergence-analysis-of-prediction-markets-via-randomized-subspace-descent.pdf
+2015,Deeply Learning the Messages in Message Passing Inference,5791-deeply-learning-the-messages-in-message-passing-inference.pdf
+2015,Efficient Thompson Sampling for Online ?Matrix-Factorization Recommendation,5985-efficient-thompson-sampling-for-online-matrix-factorization-recommendation.pdf
+2015,Learning with Symmetric Label Noise: The Importance of Being Unhinged,5941-learning-with-symmetric-label-noise-the-importance-of-being-unhinged.pdf
+2015,Maximum Likelihood Learning With Arbitrary Treewidth via Fast-Mixing Parameter Sets,5907-maximum-likelihood-learning-with-arbitrary-treewidth-via-fast-mixing-parameter-sets.pdf
+2015,"Reflection, Refraction, and Hamiltonian Monte Carlo",5801-reflection-refraction-and-hamiltonian-monte-carlo.pdf
+2014,(Almost) No Label No Cry,5453-almost-no-label-no-cry.pdf
+2014,Encoding High Dimensional Local Features by Sparse Coding Based Fisher Vectors,5285-encoding-high-dimensional-local-features-by-sparse-coding-based-fisher-vectors.pdf
+2014,From Stochastic Mixability to Fast Rates,5434-from-stochastic-mixability-to-fast-rates.pdf
+2014,Projecting Markov Random Field Parameters for Fast Mixing,5315-projecting-markov-random-field-parameters-for-fast-mixing.pdf
+2014,Robust Bayesian Max-Margin Clustering,5305-robust-bayesian-max-margin-clustering.pdf
+2014,SAGA: A Fast Incremental Gradient Method With Support for Non-Strongly Convex Composite Objectives,5258-saga-a-fast-incremental-gradient-method-with-support-for-non-strongly-convex-composite-objectives.pdf
+2013,Convex Two-Layer Modeling,4867-convex-two-layer-modeling.pdf
+2013,Learning Chordal Markov Networks by Constraint Satisfaction,4960-learning-chordal-markov-networks-by-constraint-satisfaction.pdf
+2013,Learning with Invariance via Linear Functionals on Reproducing Kernel Hilbert Space,4895-learning-with-invariance-via-linear-functionals-on-reproducing-kernel-hilbert-space.pdf
+2013,Polar Operators for Structured Sparse Estimation,4935-polar-operators-for-structured-sparse-estimation.pdf
+2013,Projecting Ising Model Parameters for Fast Mixing,4964-projecting-ising-model-parameters-for-fast-mixing.pdf
+2013,Structured Learning via Logistic Regression,4870-structured-learning-via-logistic-regression.pdf
+2012,A Convex Formulation for Learning Scale-Free Networks via Submodular Relaxation,4538-a-convex-formulation-for-learning-scale-free-networks-via-submodular-relaxation.pdf
+2012,Adaptive Learning of Smoothing Functions: Application to Electricity Load Forecasting,4724-adaptive-learning-of-smoothing-functions-application-to-electricity-load-forecasting.pdf
+2012,Assessing Blinding in Clinical Trials,4722-assessing-blinding-in-clinical-trials.pdf
+2012,Interpreting prediction markets: a stochastic approach,4529-interpreting-prediction-markets-a-stochastic-approach.pdf
+2012,Learning as MAP Inference in Discrete Graphical Models,4605-learning-as-map-inference-in-discrete-graphical-models.pdf
+2012,Mixability in Statistical Learning,4835-mixability-in-statistical-learning.pdf
+2012,Symbolic Dynamic Programming for Continuous State and Observation POMDPs,4756-symbolic-dynamic-programming-for-continuous-state-and-observation-pomdps.pdf
+2011,Generalized Lasso based Approximation of Sparse Coding for Visual Recognition,4441-generalized-lasso-based-approximation-of-sparse-coding-for-visual-recognition.pdf
+2011,Improving Topic Coherence with Regularized Topic Models,4291-improving-topic-coherence-with-regularized-topic-models.pdf
+2011,Simultaneous Sampling and Multi-Structure Fitting with Adaptive Reversible Jump MCMC,4458-simultaneous-sampling-and-multi-structure-fitting-with-adaptive-reversible-jump-mcmc.pdf
+2011,Submodular Multi-Label Learning,4239-submodular-multi-label-learning.pdf
+2010,Gaussian Process Preference Elicitation,4141-gaussian-process-preference-elicitation.pdf
+2010,Learning the context of a category,4139-learning-the-context-of-a-category.pdf
+2010,Monte-Carlo Planning in Large POMDPs,4031-monte-carlo-planning-in-large-pomdps.pdf
+2010,Multitask Learning without Label Correspondences,3990-multitask-learning-without-label-correspondences.pdf
+2010,Optimal Web-Scale Tiering as a Flow Problem,3986-optimal-web-scale-tiering-as-a-flow-problem.pdf
+2010,Reverse Multi-Label Learning,3920-reverse-multi-label-learning.pdf
+2010,Why are some word orders more common than others? A uniform information density account,4085-why-are-some-word-orders-more-common-than-others-a-uniform-information-density-account.pdf
+2010,Word Features for Latent Dirichlet Allocation,4094-word-features-for-latent-dirichlet-allocation.pdf
+2009,Bootstrapping from Game Tree Search,3722-bootstrapping-from-game-tree-search.pdf
+2009,Convex Relaxation of Mixture Regression with Efficient Algorithms,3822-convex-relaxation-of-mixture-regression-with-efficient-algorithms.pdf
+2009,Discrete MDL Predicts in Total Variation,3746-discrete-mdl-predicts-in-total-variation.pdf
+2009,Distribution Matching for Transduction,3666-distribution-matching-for-transduction.pdf
+2009,Exponential Family Graph Matching and Ranking,3800-exponential-family-graph-matching-and-ranking.pdf
+2009,Positive Semidefinite Metric Learning with Boosting,3658-positive-semidefinite-metric-learning-with-boosting.pdf
+2009,Slow Learners are Fast,3888-slow-learners-are-fast.pdf
+2009,The Ordered Residual Kernel for Robust Motion Subspace Clustering,3734-the-ordered-residual-kernel-for-robust-motion-subspace-clustering.pdf
+2008,A computational model of hippocampal function in trace conditioning,3619-a-computational-model-of-hippocampal-function-in-trace-conditioning.pdf
+2008,Efficient Exact Inference in Planar Ising Models,3390-efficient-exact-inference-in-planar-ising-models.pdf
+2008,Generative and Discriminative Learning with Unknown Labeling Bias,3624-generative-and-discriminative-learning-with-unknown-labeling-bias.pdf
+2008,Hierarchical Semi-Markov Conditional Random Fields for Recursive Sequential Data,3405-hierarchical-semi-markov-conditional-random-fields-for-recursive-sequential-data.pdf
+2008,Kernel Measures of Independence for non-iid Data,3440-kernel-measures-of-independence-for-non-iid-data.pdf
+2008,Kernelized Sorting,3608-kernelized-sorting.pdf
+2008,PSDBoost: Matrix-Generation Linear Programming for Positive Semidefinite Matrices Learning,3611-psdboost-matrix-generation-linear-programming-for-positive-semidefinite-matrices-learning.pdf
+2008,Supervised Exponential Family Principal Component Analysis via Convex Optimization,3442-supervised-exponential-family-principal-component-analysis-via-convex-optimization.pdf
+2008,Tighter Bounds for Structured Estimation,3451-tighter-bounds-for-structured-estimation.pdf
+2007,A Kernel Statistical Test of Independence,3201-a-kernel-statistical-test-of-independence.pdf
+2007,Bundle Methods for Machine Learning,3230-bundle-methods-for-machine-learning.pdf
+2007,COFI RANK - Maximum Margin Matrix Factorization for Collaborative Ranking,3359-cofi-rank-maximum-margin-matrix-factorization-for-collaborative-ranking.pdf
+2007,Colored Maximum Variance Unfolding,3307-colored-maximum-variance-unfolding.pdf
+2007,Convex Learning with Invariances,3218-convex-learning-with-invariances.pdf
+2007,Temporal Difference Updating without a Learning Rate,3290-temporal-difference-updating-without-a-learning-rate.pdf
+2006,A Bayesian Approach to Diffusion Models of Decision-Making and Response Time,3036-a-bayesian-approach-to-diffusion-models-of-decision-making-and-response-time.pdf
+2006,A Kernel Method for the Two-Sample-Problem,3110-a-kernel-method-for-the-two-sample-problem.pdf
+2006,A Nonparametric Bayesian Method for Inferring Features From Similarity Judgments,3136-a-nonparametric-bayesian-method-for-inferring-features-from-similarity-judgments.pdf
+2006,Correcting Sample Selection Bias by Unlabeled Data,3075-correcting-sample-selection-bias-by-unlabeled-data.pdf
+2006,Fast Computation of Graph Kernels,2973-fast-computation-of-graph-kernels.pdf
+2006,Fast Iterative Kernel PCA,2991-fast-iterative-kernel-pca.pdf
+2006,Hyperparameter Learning for Graph Based Semi-supervised Learning Algorithms,3043-hyperparameter-learning-for-graph-based-semi-supervised-learning-algorithms.pdf
+2006,Implicit Surfaces with Globally Regularised and Compactly Supported Basis Functions,3034-implicit-surfaces-with-globally-regularised-and-compactly-supported-basis-functions.pdf
+2006,Learning to Rank with Nonsmooth Cost Functions,2971-learning-to-rank-with-nonsmooth-cost-functions.pdf
+2006,Natural Actor-Critic for Road Traffic Optimisation,3087-natural-actor-critic-for-road-traffic-optimisation.pdf
+2006,"Shifting, One-Inclusion Mistake Bounds and Tight Multiclass Expected Risk Bounds",2982-shifting-one-inclusion-mistake-bounds-and-tight-multiclass-expected-risk-bounds.pdf
+2006,implicit Online Learning with Kernels,3038-implicit-online-learning-with-kernels.pdf
+2005,A Bayes Rule for Density Matrices,2793-a-bayes-rule-for-density-matrices.pdf
+2005,An aVLSI Cricket Ear Model,2803-an-avlsi-cricket-ear-model.pdf
+2005,Fast Online Policy Gradient Learning with SMD Gain Vector Adaptation,2825-fast-online-policy-gradient-learning-with-smd-gain-vector-adaptation.pdf
+2005,Phase Synchrony Rate for the Recognition of Motor Imagery in Brain-Computer Interface,2849-phase-synchrony-rate-for-the-recognition-of-motor-imagery-in-brain-computer-interface.pdf
+2005,Policy-Gradient Methods for Planning,2910-policy-gradient-methods-for-planning.pdf
+2004,A Second Order Cone programming Formulation for Classifying Missing Data,2670-a-second-order-cone-programming-formulation-for-classifying-missing-data.pdf
+2004,Binet-Cauchy Kernels,2717-binet-cauchy-kernels.pdf
+2004,Surface Reconstruction using Learned Shape Models,2654-surface-reconstruction-using-learned-shape-models.pdf
+2003,Application of SVMs for Colour Classification and Collision Detection with AIBO Robots,2487-application-of-svms-for-colour-classification-and-collision-detection-with-aibo-robots.pdf
+2003,Laplace Propagation,2444-laplace-propagation.pdf
+2002,Adapting Codes and Embeddings for Polychotomies,2166-adapting-codes-and-embeddings-for-polychotomies.pdf
+2002,Fast Kernels for String and Tree Matching,2272-fast-kernels-for-string-and-tree-matching.pdf
+2002,Hyperkernels,2193-hyperkernels.pdf
+2002,Linear Combinations of Optic Flow Vectors for Estimating Self-Motion - a Real-World Test of a Neural Model,2247-linear-combinations-of-optic-flow-vectors-for-estimating-self-motion-a-real-world-test-of-a-neural-model.pdf
+2001,A New Discriminative Kernel From Probabilistic Models,2014-a-new-discriminative-kernel-from-probabilistic-models.pdf
+2001,Algorithmic Luckiness,2105-algorithmic-luckiness.pdf
+2001,On the Convergence of Leveraging,1963-on-the-convergence-of-leveraging.pdf
+2001,Online Learning with Kernels,2128-online-learning-with-kernels.pdf
+2001,Rao-Blackwellised Particle Filtering via Data Augmentation,2066-rao-blackwellised-particle-filtering-via-data-augmentation.pdf
+2001,Variance Reduction Techniques for Gradient Estimates in Reinforcement Learning,2052-variance-reduction-techniques-for-gradient-estimates-in-reinforcement-learning.pdf
+2000,From Margin to Sparsity,1870-from-margin-to-sparsity.pdf
+2000,Regularization with Dot-Product Kernels,1790-regularization-with-dot-product-kernels.pdf
+2000,Sparse Greedy Gaussian Process Regression,1880-sparse-greedy-gaussian-process-regression.pdf
+2000,Sparsity of Data Representation of Optimal Kernel Machine and Leave-one-out Estimator,1868-sparsity-of-data-representation-of-optimal-kernel-machine-and-leave-one-out-estimator.pdf
+1999,A Geometric Interpretation of v-SVM Classifiers,1687-a-geometric-interpretation-of-v-svm-classifiers.pdf
+1999,An Analog VLSI Model of Periodicity Extraction,1781-an-analog-vlsi-model-of-periodicity-extraction.pdf
+1999,Boosting Algorithms as Gradient Descent,1766-boosting-algorithms-as-gradient-descent.pdf
+1999,Evolving Learnable Languages,1782-evolving-learnable-languages.pdf
+1999,Neural System Model of Human Sound Localization,1734-neural-system-model-of-human-sound-localization.pdf
+1999,Spectral Cues in Human Sound Localization,1731-spectral-cues-in-human-sound-localization.pdf
+1999,Support Vector Method for Novelty Detection,1723-support-vector-method-for-novelty-detection.pdf
+1999,The Entropy Regularization Information Criterion,1677-the-entropy-regularization-information-criterion.pdf
+1999,Uniqueness of the SVM Solution,1735-uniqueness-of-the-svm-solution.pdf
+1999,v-Arc: Ensemble Learning in the Presence of Outliers,1721-v-arc-ensemble-learning-in-the-presence-of-outliers.pdf
+1998,A Micropower CMOS Adaptive Amplitude and Shift Invariant Vector Quantiser,1558-a-micropower-cmos-adaptive-amplitude-and-shift-invariant-vector-quantiser.pdf
+1998,Almost Linear VC Dimension Bounds for Piecewise Polynomial Networks,1515-almost-linear-vc-dimension-bounds-for-piecewise-polynomial-networks.pdf
+1998,Direct Optimization of Margins Improves Generalization in Combined Classifiers,1553-direct-optimization-of-margins-improves-generalization-in-combined-classifiers.pdf
+1998,Shrinking the Tube: A New Support Vector Regression Algorithm,1563-shrinking-the-tube-a-new-support-vector-regression-algorithm.pdf
+1997,Comparison of Human and Machine Word Recognition,1393-comparison-of-human-and-machine-word-recognition.pdf
+1997,Generalization in Decision Trees and DNF: Does Size Matter?,1340-generalization-in-decision-trees-and-dnf-does-size-matter.pdf
+1997,Recurrent Neural Networks Can Learn to Implement Symbol-Sensitive Counting,1361-recurrent-neural-networks-can-learn-to-implement-symbol-sensitive-counting.pdf
+1997,The Canonical Distortion Measure in Feature Space and 1-NN Classification,1357-the-canonical-distortion-measure-in-feature-space-and-1-nn-classification.pdf
+1996,For Valid Generalization the Size of the Weights is More Important than the Size of the Network,1204-for-valid-generalization-the-size-of-the-weights-is-more-important-than-the-size-of-the-network.pdf
+1996,Interpolating Earth-science Data using RBF Networks and Mixtures of Experts,1313-interpolating-earth-science-data-using-rbf-networks-and-mixtures-of-experts.pdf
+1996,MLP Can Provably Generalize Much Better than VC-bounds Indicate,1219-mlp-can-provably-generalize-much-better-than-vc-bounds-indicate.pdf
+1995,A Novel Channel Selection System in Cochlear Implants Using Artificial Neural Network,1159-a-novel-channel-selection-system-in-cochlear-implants-using-artificial-neural-network.pdf
+1995,Examples of learning curves from a modified VC-formalism,1086-examples-of-learning-curves-from-a-modified-vc-formalism.pdf
+1995,Experiments with Neural Networks for Real Time Implementation of Control,1162-experiments-with-neural-networks-for-real-time-implementation-of-control.pdf
+1995,Family Discovery,1050-family-discovery.pdf
+1995,The Gamma MLP for Speech Phoneme Recognition,1021-the-gamma-mlp-for-speech-phoneme-recognition.pdf
+1994,A Comparison of Discrete-Time Operator Models for Nonlinear System Identification,885-a-comparison-of-discrete-time-operator-models-for-nonlinear-system-identification.pdf
+1994,Generalisation in Feedforward Networks,913-generalisation-in-feedforward-networks.pdf
+1994,ICEG Morphology Classification using an Analogue VLSI Neural Network,1004-iceg-morphology-classification-using-an-analogue-vlsi-neural-network.pdf
+1993,Classification of Electroencephalogram using Artificial Neural Networks,855-classification-of-electroencephalogram-using-artificial-neural-networks.pdf
+1993,Connectionist Modeling and Parallel Architectures,828-connectionist-modeling-and-parallel-architectures.pdf
+1993,Constructive Learning Using Internal Representation Conflicts,802-constructive-learning-using-internal-representation-conflicts.pdf
+1993,Counting function theorem for multi-layer networks,739-counting-function-theorem-for-multi-layer-networks.pdf
+1993,Tonal Music as a Componential Code: Learning Temporal Relationships Between and Within Pitch and Timing Components,759-tonal-music-as-a-componential-code-learning-temporal-relationships-between-and-within-pitch-and-timing-components.pdf
+1993,WATTLE: A Trainable Gain Analogue VLSI Neural Network,755-wattle-a-trainable-gain-analogue-vlsi-neural-network.pdf
+1992,Intersecting regions: The Key to combinatorial structure in hidden unit space,691-intersecting-regions-the-key-to-combinatorial-structure-in-hidden-unit-space.pdf
+1992,Rational Parametrizations of Neural Networks,696-rational-parametrizations-of-neural-networks.pdf
+1992,Some Estimates of Necessary Number of Connections and Hidden Units for Feed-Forward Networks,695-some-estimates-of-necessary-number-of-connections-and-hidden-units-for-feed-forward-networks.pdf
+1992,Summed Weight Neuron Perturbation: An O(N) Improvement Over Weight Perturbation,608-summed-weight-neuron-perturbation-an-on-improvement-over-weight-perturbation.pdf
+1991,ANN Based Classification for Heart Defibrillators,586-ann-based-classification-for-heart-defibrillators.pdf
+1991,Application of Neural Network Methodology to the Modelling of the Yield Strength in a Steel Rolling Plate Mill,482-application-of-neural-network-methodology-to-the-modelling-of-the-yield-strength-in-a-steel-rolling-plate-mill.pdf
+1991,Benchmarking Feed-Forward Neural Networks: Models and Measures,548-benchmarking-feed-forward-neural-networks-models-and-measures.pdf
+1991,Fault Diagnosis of Antenna Pointing Systems using Hybrid Neural Network and Signal Processing Models,502-fault-diagnosis-of-antenna-pointing-systems-using-hybrid-neural-network-and-signal-processing-models.pdf
+1991,Learning in Feedforward Networks with Nonsmooth Functions,494-learning-in-feedforward-networks-with-nonsmooth-functions.pdf
+1991,Operators and curried functions: Training and analysis of simple recurrent networks,468-operators-and-curried-functions-training-and-analysis-of-simple-recurrent-networks.pdf
+1991,"Splines, Rational Functions and Neural Networks",442-splines-rational-functions-and-neural-networks.pdf
+1990,"Comparison of three classification techniques: CART, C4.5 and Multi-Layer Perceptrons",410-comparison-of-three-classification-techniques-cart-c45-and-multi-layer-perceptrons.pdf
+1990,Direct memory access using two cues: Finding the intersection of sets in a connectionist model,434-direct-memory-access-using-two-cues-finding-the-intersection-of-sets-in-a-connectionist-model.pdf
+1990,e-Entropy and the Complexity of Feedforward Neural Networks,386-e-entropy-and-the-complexity-of-feedforward-neural-networks.pdf
